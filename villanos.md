@@ -2,3 +2,4 @@
 
 1. El bromas (Joker)
 2. Lex Lutor
+3. El dudas (El acertijo)
